@@ -1,4 +1,4 @@
-# 🐀👨‍🍳 Anyone Can Cook: Serving Up Insights on Bias in Pre-Training Dat.
+# 🐀👨‍🍳 Anyone Can Cook: Serving Up Insights on Bias in Pre-Training Data.
 
 This repo houses the dataset used in my paper. Each item's use and contents is listed below.
 
