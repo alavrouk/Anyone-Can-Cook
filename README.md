@@ -1,7 +1,6 @@
-# Anyone Can Cook: Serving Up Insights on Bias in Pre-Training Data 
-![Remi](https://images.fineartamerica.com/images/artworkimages/medium/3/disney-pixar-ratatouille-remy-anyone-can-cook-quote-rogani-lilly-transparent.png)
+# 🐀👨‍🍳 Anyone Can Cook: Serving Up Insights on Bias in Pre-Training Dat.
 
-The following is a description of each file and what its purpose is:
+This repo houses the dataset used in my paper. Each item's use and contents is listed below.
 
 ## 📊 en_ru_ar_article_stats.xlsx
 This file contians every statistic for every article. More details can be found in **Section 3** of the paper.
