@@ -1,6 +1,7 @@
-# 🐀👨‍🍳 Anyone Can Cook: Serving Up Insights on Bias in Pre-Training Data.
+# 🐀👨‍🍳 Anyone Can Cook: Multilingual, Cross-Cultural Bias in Wikipedia
 
-This repo houses the dataset used in my paper. Each item's use and contents is listed below.
+## ✍️ Abstract
+This study presents an analysis of the biases inherent in the training datasets of Large Language Models (LLMs), with a specific focus on food items in Wikipedia's multilingual corpus. The study explores how these biases emerge from the datasets used in pre-training, particularly in the context of culturally significant topics. Using the example of food items—a subject deeply intertwined with cultural identity—the research examines Wikipedia's representation of this topic across English, Russian and Arabic languages. The methodology encompasses an examination of the cultural significance of a language's Wikipedia, scrutinizing potential western biases, assessing culturally unique elements in terms of both their quantity and quality, and conducting a thorough comparative analysis of the quality of articles in various languages on identical topics. Evidence is observed of numerous biases, manifesting both in the quantity of articles as well as in their quality. The findings of this study are vital for understanding the challenges in developing LLMs that are culturally inclusive and unbiased. By identifying several different forms of bias in Wikipedia's multilignual corpus, the study suggests that these biases easily propagate into LLM outputs, which can cause non-alignment for various groups of users.
 
 ## 📊 en_ru_ar_article_stats.xlsx
 This file contians every statistic for every article. More details can be found in **Section 3** of the paper.
